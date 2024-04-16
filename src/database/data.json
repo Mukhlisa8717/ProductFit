@@ -1,0 +1,40 @@
+{
+    "products" : [
+        {
+            "id": 1,
+            "title": "OpenGift",
+            "info": "Система монетизации OpenSource-проектов на основе блокчейна hyperledger fabric",
+            "image": "/images/openGift.png"
+        },
+        {
+            "id": 2,
+            "title": "Cabify",
+            "info": "Кроссплатформенное приложение под Android и iOS разработано на React Native(Python)",
+            "image": "/images/cabify.png"
+        },
+        {
+            "id": 3,
+            "title": "Ural Airlines",
+            "info": "Все сервисы для пассажиров «Уральских авиалиний» в одном приложении на Swift и Java",
+            "image": "/images/uralAirlines.png"
+        },
+        {
+            "id": 4,
+            "title": "PlanDi",
+            "info": "Сервис поиска актуальной работы проектировщикам и компаниям",
+            "image": "/images/planDi.png"
+        },
+        {
+            "id": 5,
+            "title": "Коалиция",
+            "info": "Проект для ведущего в России Центра образования, который осуществляет подготовку школьников к сдаче ЕГЭ.",
+            "image": "/images/koalitsiya.png"
+        },
+        {
+            "id": 6,
+            "title": "Rubetek",
+            "info": "Управление домом IoT и микрофреймворк на языке Python совместно с Java и Swift",
+            "image": "/images/rubetek.png"
+        }
+    ]
+}
